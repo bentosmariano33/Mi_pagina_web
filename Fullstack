@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <h1>Forrajería Tony</h1>
+        <p>Somos una tienda dedicada a la comercialización de alimentos balanceados para mascotas</p>    
+        <p><strong>Hacenos tu pedido que te lo llevamos a domicilio, <em>EL ENVÍO ES SIN CARGO!!</em></strong></p>
+        <p>Hacé click <button><strong>aquí</strong></button> y pedinos el tuyo.</p>
+        <a href="https://www.facebook.com/profile.php?id=100091510039735">Visitá nuestra página de Facebook</a>
+        <br>
+        <br>
+        <img src="https://images.hola.com/imagenes/estar-bien/20180417122950/perro-gato-casa-convivencia/0-558-880/perro-gato-en-casa-1-t.jpg?tx=w_680" width="500" height="300"><br>
+        <img src="/Alimentos_balanceados/Banner.png" width="500" height="300">
+        <img src="/Alimentos_balanceados/Banner.png" width="500" height="300">
+    </body>
+</html>
