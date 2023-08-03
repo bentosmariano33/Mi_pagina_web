@@ -1,5 +1,10 @@
 <!DOCTYPE html>
 <html>
+    <head>
+        <style>
+            p{font-family: cursive;}
+        </style>
+    </head>
     <body>
         <h1
         style="color:rgb(233, 26, 233);
@@ -7,8 +12,8 @@
         font-family: Courier New;">
         Forrajería Tony
         </h1>
-        <h2 style="color:blueviolet;">Ayuda</h2>
-        <h3 style="color:blueviolet;">Mis órdenes</h3>
+        <p style="color:blueviolet;font-family: cursive;">Ayuda</p>
+        <p style="color:blueviolet;font-family: cursive;">Mis órdenes</p>
         <p>Somos una tienda dedicada a la comercialización de alimentos balanceados para mascotas</p>    
         <p><strong>Hacenos tu pedido que te lo llevamos a domicilio, <em>EL ENVÍO ES SIN CARGO!!</em></strong></p>
         <p>Hacé click <button><strong>aquí</strong></button> y pedinos el tuyo.</p>
