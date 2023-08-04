@@ -2,23 +2,42 @@
 <html>
     <head>
         <style>
-            p{font-family: cursive;}
+            h1{
+                color:rgb(233, 26, 233);
+                background-color: rgb(235, 186, 126);
+                font-family: Courier New;
+            }
+            p{
+                font-family: cursive;
+            }
+            body{
+                background-color: rgb(173, 177, 63);
+            }
         </style>
     </head>
     <body>
-        <h1
-        style="color:rgb(233, 26, 233);
-        background-color: rgb(235, 186, 126);
-        font-family: Courier New;">
+        <!---Nombre de la Forrajería-->
+        <h1>
         Forrajería Tony
         </h1>
-        <p style="color:blueviolet;font-family: cursive;">Ayuda</p>
-        <p style="color:blueviolet;font-family: cursive;">Mis órdenes</p>
-        <p>Somos una tienda dedicada a la comercialización de alimentos balanceados para mascotas</p>    
+        <!--Datos de ayuda-->
+        <p style="color:blueviolet;">Ayuda</p>
+        <!--Ordenes del comprador-->
+        <p style="color:blueviolet;">Mis órdenes</p>
+        <!--Una descripción del comercio-->
+        <p>Somos una tienda dedicada a la comercialización de alimentos balanceados para mascotas</p>
+        <!--Una sugerencia y promoción del envío sin cargo-->    
         <p><strong>Hacenos tu pedido que te lo llevamos a domicilio, <em>EL ENVÍO ES SIN CARGO!!</em></strong></p>
+        <!--Orientar al usuario a hacer el pedido con un botón-->
         <p>Hacé click <button><strong>aquí</strong></button> y pedinos el tuyo.</p>
-        <a href="https://www.facebook.com/profile.php?id=100091510039735">Visitá nuestra página de Facebook</a>
+        <!--Página de Facebook del comercio-->
+        <a href="https://www.facebook.com/profile.php?id=100091510039735";
+            style="font-family: cursive;
+            color: blueviolet;">
+            Visitá nuestra página de Facebook
+        </a>
         <br>
+        <!--Menú desplegable para que el usuario pueda seleccionar lo que quiere comprar-->
         <h4>Seleccioná tu búsqueda de alimento:</h4>
         <select>
             <option value="file:///C:/Users/mbentos/Desktop/Python/-Codoacodo-/Alimento_perro_adulto.HTML">Alimento para perro adulto</option>
