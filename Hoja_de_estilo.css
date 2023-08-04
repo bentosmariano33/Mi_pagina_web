@@ -1,0 +1,15 @@
+h1{
+    color:rgb(233, 26, 233);
+    background-color: rgb(235, 186, 126);
+    font-family: 'Times New Roman';
+    text-align: center;
+}
+p{
+    font-family: cursive;
+}
+body{
+    background-color: rgb(173, 177, 63);
+}
+img{
+    margin-left: 450px;
+}

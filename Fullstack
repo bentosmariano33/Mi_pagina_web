@@ -1,19 +1,8 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <style>
-            h1{
-                color:rgb(233, 26, 233);
-                background-color: rgb(235, 186, 126);
-                font-family: Courier New;
-            }
-            p{
-                font-family: cursive;
-            }
-            body{
-                background-color: rgb(173, 177, 63);
-            }
-        </style>
+        <link rel="stylesheet"
+    href="Hoja_de_estilo.css">
     </head>
     <body>
         <!---Nombre de la Forrajería-->
