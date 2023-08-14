@@ -1,5 +1,58 @@
 <!DOCTYPE html>
-<header></header>
-<nav></nav>
-<main></main>
-<footer></footer>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clase_02</title>
+</head>
+<body>
+    <h1>Clase 2, continuamos con HTML</h1>
+    <P>En esta clase vamos a ver listas, enlaces y algo más</P>
+
+    <p>Lista desordenada</p>
+<ul>                             <!--Unordered list o lista desordenada-->
+        <li>Enero</li>           <!--List item, un item que conforma mi lista-->
+        <li>Febrero</li>
+        <li>Marzo</li>
+        <li>Abril</li>
+        <li>Mayo</li>
+    </ul>
+
+    <hr> 
+    <p>Lista ordenada</p>
+    <ol>                         <!--Order list o lista ordenada-->
+        <li>Lunes</li>
+            <ul>
+                <li>Mañana</li>  <!--Lista dentro de otra lista-->
+                <li>Tarde</li>
+                <li>Noche</li> 
+            </ul>
+        <li>Martes</li>
+        <li>Miércoles</li>
+        <li>Jueves</li>
+        <li>Viernes</li>  
+    </ol>
+
+    <hr>
+
+    <p>Listas de definición</p>
+    <b>Frutas y verduras</b>
+<dl>                                <!--Defined list-->
+        <dt>Frutas</dt>             <!--Definition title-->
+        <dd>Banana</dd>             <!--Definitio description-->
+            <dd>Naranja</dd>
+        <dt>Verduras</dt>
+            <dd>Lechuga</dd>
+            <dd>Tomate</dd>
+    </dl>
+
+    <hr>
+    <h2>Enlaces locales (relativos) y globales(absulutos)</h2>
+    <p>Enlace absoluto va a incluir una URL</p>
+    <a href="http://www.youtube.com"target="_blank">Ir a Youtube</a>
+
+    <p>Enlace relativo, me lleva a lugares dentro de mi pc</p>
+    <a href="/Clases/Clase_01.HTML"target="_blank">Ir a la página principal</a> <!--Para buscar las paginas, se puede poner la barrita y seleccionar la que queremos-->
+
+</body>
+</html>
