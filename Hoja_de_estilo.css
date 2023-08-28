@@ -26,10 +26,11 @@ img{
     padding: 2%;
 }
 .Seleccion{
-    width: 20vw;
+    width: 13vw;
     height: 15vh;
-    border: 3px;
+    border: gray 2px solid;
     background-color: rgb(227, 234, 234);
+    margin-left: 820px;
 }
 footer{
     font-family: cursive;
