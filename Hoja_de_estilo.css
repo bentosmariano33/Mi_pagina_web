@@ -13,9 +13,18 @@ body{
 img{
     margin-left: 450px;
 }
+.Boton_de_face{
+    text-align: center;
+    text-decoration: none;
+    font-family: cursive;
+    padding: 5px 5px;
+    position: relative;
+    background: transparent;
+}
 footer{
     font-family: cursive;
     background-color:rgb(235, 186, 126);
+    text-align: center;
 }
 nav{
     color:rgb(233, 26, 233);
