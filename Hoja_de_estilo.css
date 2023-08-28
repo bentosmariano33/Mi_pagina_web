@@ -25,6 +25,12 @@ img{
     font-family: cursive;
     padding: 2%;
 }
+.Seleccion{
+    width: 20vw;
+    height: 20vh;
+    border: 3px;
+    background-color: rgb(227, 234, 234);
+}
 footer{
     font-family: cursive;
     background-color:rgb(235, 186, 126);
