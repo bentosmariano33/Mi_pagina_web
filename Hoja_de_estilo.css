@@ -13,6 +13,12 @@ body{
 img{
     margin-left: 450px;
 }
+.Descripcion_comercio{
+    text-align: center;
+}
+.Incentivo{
+    text-align: center;
+}
 .Boton_de_face{
     text-align: center;
     text-decoration: none;
